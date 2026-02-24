@@ -103,6 +103,4 @@ Required columns: `CreditScore`, `Geography`, `Gender`, `Age`, `Tenure`, `Balanc
 - `CHURN_LOG_LEVEL` — Log level (default: INFO)
 - `CHURN_DEBUG` — Enable debug mode
 
-## License
 
-MIT.
