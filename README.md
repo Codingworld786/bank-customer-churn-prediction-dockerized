@@ -87,9 +87,9 @@ bank-churn/
 
 ## Backend Swagger API
 
-Here is the latest snapshot of our backend Swagger documentation:
-
-![Backend Swagger](result_images/backend_swagger.png)
+<img src="result_images/data_dist.png" width="300" /> <img src="result_images/EDA.png" width="300" />
+<br>
+<img src="result_images/numerical_feature_distribution_result.png" width="300" /> <img src="result_images/corr.png" width="300" />
 
 ### Docker
 
