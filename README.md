@@ -85,15 +85,15 @@ bank-churn/
    - **GET /api/v1/metadata**
    - **POST /api/v1/predict** with a JSON body (see schema in docs).
 
-## Backend Swagger API
+## Results
 
-<img src="result_images/data_distribution.png" width="300" /> <img src="result_images/data_distribution.png" width="300" />
+<img src="result_images/data_distribution.png" width="450" /> <img src="result_images/data_distribution.png" width="450" />
 <br>
-<img src="result_images/EDA_dashboard.png" width="300" /> <img src="result_images/EDA_dashboard.png" width="300" />
+<img src="result_images/EDA_dashboard.png" width="450" /> <img src="result_images/EDA_dashboard.png" width="450" />
 <br>
-<img src="result_images/numerical_feature_distributions_result.png" width="300" /> <img src="numerical_feature_distributions_result.png" width="300" />
+<img src="result_images/numerical_feature_distributions_result.png" width="450" /> <img src="result_images/numerical_feature_distributions_result.png" width="450" />
 <br>
-<img src="result_images/corr.png" width="300" /> <img src="result_images/corr.png" width="300" />
+<img src="result_images/corr.png" width="450" /> <img src="result_images/corr.png" width="450" />
 
 
 
