@@ -89,9 +89,9 @@ bank-churn/
 
 ## Backend Swagger API
 
-<img src="result_images/data_distribution.png" width="450" /> <img src="result_images/EDA_dashboard.png" width="450" />
+<img src="result_images/data_distribution.png" width="1000" /> <img src="result_images/EDA_dashboard.png" width="1000" />
 <br>
-<img src="result_images/numeric_feature_distributions_results.png" width="450" /> <img src="result_images/corr.png" width="450" />/>
+<img src="result_images/numeric_feature_distributions_results.png" width="1000" /> <img src="result_images/corr.png" width="1000" />
 
 
 
