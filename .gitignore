@@ -9,3 +9,5 @@ models/
 logs/
 *.db
 *.sqlite3
+PROJECT_DETAILS.md
+PROJECT_FILE_DESCRIPTIONS.md
