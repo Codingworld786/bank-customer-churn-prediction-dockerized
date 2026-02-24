@@ -87,9 +87,15 @@ bank-churn/
 
 ## Backend Swagger API
 
-<img src="result_images/data_dist.png" width="300" /> <img src="result_images/EDA.png" width="300" />
+<img src="result_images/data_distribution.png" width="300" /> <img src="result_images/data_distribution.png" width="300" />
 <br>
-<img src="result_images/numerical_feature_distribution_result.png" width="300" /> <img src="result_images/corr.png" width="300" />
+<img src="result_images/EDA_dashboard.png" width="300" /> <img src="result_images/EDA_dashboard.png" width="300" />
+<br>
+<img src="result_images/numerical_feature_distributions_result.png" width="300" /> <img src="numerical_feature_distributions_result.png" width="300" />
+<br>
+<img src="result_images/corr.png" width="300" /> <img src="result_images/corr.png" width="300" />
+
+
 
 ### Docker
 
