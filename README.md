@@ -85,6 +85,12 @@ bank-churn/
    - **GET /api/v1/metadata**
    - **POST /api/v1/predict** with a JSON body (see schema in docs).
 
+## Backend Swagger API
+
+Here is the latest snapshot of our backend Swagger documentation:
+
+![Backend Swagger](result_images/backend_swagger.png)
+
 ### Docker
 
 ```bash
