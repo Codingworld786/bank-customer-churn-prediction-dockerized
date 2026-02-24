@@ -87,13 +87,11 @@ bank-churn/
 
 ## Results
 
-<img src="result_images/data_distribution.png" width="450" /> <img src="result_images/data_distribution.png" width="450" />
+## Backend Swagger API
+
+<img src="result_images/data_distribution.png" width="450" /> <img src="result_images/EDA_dashboard.png" width="450" />
 <br>
-<img src="result_images/EDA_dashboard.png" width="450" /> <img src="result_images/EDA_dashboard.png" width="450" />
-<br>
-<img src="result_images/numerical_feature_distributions_result.png" width="450" /> <img src="result_images/numerical_feature_distributions_result.png" width="450" />
-<br>
-<img src="result_images/corr.png" width="450" /> <img src="result_images/corr.png" width="450" />
+<img src="result_images/numerical_feature_distributions_results.png" width="450" /> <img src="result_images/corr.png" width="450" />/>
 
 
 
